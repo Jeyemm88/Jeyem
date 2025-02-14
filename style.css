@@ -15,7 +15,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(./images/HomeDes.jpg);
+    background-image: url(HomeDes.jpg);
     background-size: cover;
     background-position: center;
 }
